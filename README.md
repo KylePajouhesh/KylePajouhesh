@@ -1,10 +1,10 @@
 ## About Me
 
-Hey, I'm Kyle.
+Hey, I'm Kyle. 👋
 
-I am a Community College student at Irvine Valley College and have a passion for technology and AI/ML advancement. 
+I am a Community College student at Irvine Valley College, currently studying Computer Science 💻, and have a passion for technology and AI/ML advancement. 🤖🛠️
 I'm currently developing my skills through coursework, personal projects, and consistent learning in areas like web development and software engineering.
-I enjoy exploring new tools, understanding core CS concepts, and building things that help me grow as a developer.
+I enjoy exploring new tools, understanding core CS concepts, and building things that help me grow as a developer. ⚡
 
 
 
