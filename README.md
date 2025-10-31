@@ -2,6 +2,11 @@
 
 Hey, I'm Kyle.
 
+I am a Community College student at Irvine Valley College and have a passion for technology and AI/ML advancement. 
+I'm currently developing my skills through coursework, personal projects, and consistent learning in areas like web development and software engineering.
+I enjoy exploring new tools, understanding core CS concepts, and building things that help me grow as a developer.
+
+
 
 
 ---
@@ -15,8 +20,18 @@ Hey, I'm Kyle.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true)
+---
+
+## Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## Links: Connect with me!
+<p align="center">
+  <a href="https://www.linkedin.com/in/kyle-pajouhesh-766885341/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+</p>
 
 
