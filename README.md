@@ -2,8 +2,7 @@
 
 Hey, I'm Kyle.
 
-I build full-stack projects, learn systems/AI, and document my progress as I grow in software engineering.  
-Right now I'm focused on React, Tailwind, C++, and Python.
+
 
 ---
 
@@ -15,3 +14,9 @@ Right now I'm focused on React, Tailwind, C++, and Python.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true)
+
+
