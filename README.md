@@ -7,7 +7,7 @@ I'm a 2nd-year CS student at Irvine Valley College from Irvine, CA.
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=py,java,nodejs,nestjs,express,flask,mongodb,postgres,supabase,prisma)](https://skillicons.dev)
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,docker,aws,vercel,postman,vim)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,docker,aws)](https://skillicons.dev)
 
 
 
