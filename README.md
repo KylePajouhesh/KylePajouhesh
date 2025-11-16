@@ -5,7 +5,7 @@ I'm a 2nd-year CS student at Irvine Valley College from Irvine, CA.
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui)](https://skillicons.dev)
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=py,java,nodejs,nestjs,express,flask,mongodb,postgres,supabase,prisma)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=py,nodejs,express,flask,mongodb,postgres)](https://skillicons.dev)
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,docker,aws)](https://skillicons.dev)
 
