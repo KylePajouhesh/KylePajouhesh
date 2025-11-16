@@ -9,7 +9,7 @@ I'm a 2nd-year CS student at Irvine Valley College from Irvine, CA.
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,docker,aws,apple,lua,vscode),](https://skillicons.dev)
 ### Creative Tools
-[![Creative Tools](https://skillicons.dev/icons?i=ps,pr,ae,figma),](https://skillicons.dev)
+[![Creative Tools](https://skillicons.dev/icons?i=ps,pr,ae,ai,figma),](https://skillicons.dev)
 
 
 
