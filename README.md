@@ -3,7 +3,7 @@ I'm a 2nd-year CS student at Irvine Valley College from Irvine, CA.
 
 ## 💻 Tech Stack
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,materialui)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)](https://skillicons.dev)
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=py,nodejs,express,flask,mongodb,postgres)](https://skillicons.dev)
 ### Tools
