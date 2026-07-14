@@ -3,7 +3,7 @@ I'm a 3rd-year Electrical Engineering student at Irvine Valley College from Irvi
 
 ## 💻 Tech Stack
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,threejs)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,js,html,css,tailwind)](https://skillicons.dev)
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=py,nodejs,flask,mongodb)](https://skillicons.dev)
 ### Creative Tools
